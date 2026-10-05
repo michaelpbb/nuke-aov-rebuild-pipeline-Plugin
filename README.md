@@ -1,4 +1,6 @@
 # AOV Rebuild Pipeline Master Suite
+<img width="1920" height="1080" alt="begin2" src="https://github.com/user-attachments/assets/0095eccb-16d5-4c4c-bdd5-17e87ef995b1" />
+
 A production-oriented Nuke Python plugin for automated cross-renderer AOV reconstruction and built-in quality validation.
 
 ## Features
