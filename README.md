@@ -31,6 +31,8 @@ A production-oriented Nuke Python plugin for automated cross-renderer AOV recons
 2. Launch the plugin from the Nuke menu.
 3. In the panel:
    - Choose **Rebuild Mode**: Basic / Advanced
+<img width="369" height="182" alt="rebuild mode" src="https://github.com/user-attachments/assets/ee016aa1-e6e8-41a7-8326-52829ff15c61" />
+
    - Choose **Renderer**: Auto Detect or manually select
    - Toggle **Run Quality Control** to enable QC audit
 4. Click OK. The full reconstruction node graph will be generated automatically.
